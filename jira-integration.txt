@@ -1,0 +1,3 @@
+Jira Project: Agile DevOps Demo 2
+Jira Work Item: DEVOPS2-3
+Purpose: Demonstrate GitHub commit reference for Jira.
